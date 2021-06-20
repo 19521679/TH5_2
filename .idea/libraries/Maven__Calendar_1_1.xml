@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: Calendar:1:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/Calendar/1/1/1-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/mycompany/th5_2/tool/jcalendar-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/Calendar/1/1/1-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/Calendar/1/1/1-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: Oracle:ojdbc:1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/Oracle/ojdbc/1/ojdbc-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/mycompany/th5_2/tool/ojdbc10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
